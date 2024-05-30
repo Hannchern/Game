@@ -1,5 +1,10 @@
+import './globals.css';
+
 export default function Home() {
   return (
-    <div>hi</div>
+    <div>
+      <h1>Hello</h1>
+
+    </div>
     );
   }
